@@ -6,24 +6,16 @@ h1 {
 }
 .top-container {
     background-color:#A4D0A4 ;
-    width: 200px;
-    height: 200px;
-    border:solid 10px;
-    padding: 20px;
-
 }
 .middle-container {
     background-color:#b8a4d0 ;
-    margin-left: 260px;
     width: 200px;
     height: 200px;
-    border:solid 20px ;
+    
 }
 .bottom-container {
     background-color:#a4b2d0 ;
-    margin-left: 500px;
     width: 200px;
     height: 200px;
-    border:solid 10px ;
 
 }
