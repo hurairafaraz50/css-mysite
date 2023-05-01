@@ -32,6 +32,25 @@ h3{
 .middle-container {
    
 }
+.skill-row{
+    width: 50%; 
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.gif{
+    width: 25%; 
+    float: left;
+    margin: 30px;
+}
+.sticker{
+     width: 25%; 
+    float: right;
+    margin:20px;
+}
+
+    
 .btn{
     color: #11999E;
 }
